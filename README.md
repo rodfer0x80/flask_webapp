@@ -1,4 +1,4 @@
-flask_webapp
+flask_webpage
 ### Short description
 ##### SEE LICENSE IN LICENSE
 
