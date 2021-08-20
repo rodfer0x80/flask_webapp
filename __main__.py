@@ -1,5 +1,5 @@
 from app_name.app import app
 
-
+# set debug to False in production
 if __name__== '__main__':
     app.run(debug=True)
