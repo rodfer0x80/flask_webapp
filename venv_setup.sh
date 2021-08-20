@@ -1,4 +1,4 @@
 #!/bin/sh
-python -m venv packages
-echo "Activate: source packages/bin/activate"
+python3 -m venv venv
+echo "Activate: source venv/bin/activate"
 echo "Deactivate: deactivate"
